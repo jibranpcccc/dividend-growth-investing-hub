@@ -1,510 +1,510 @@
 [
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-1",
-    "title": "Dividend Aristocrats Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Dividend Aristocrats",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-1",
+    "id": "div-reddit-dividends",
+    "title": "r/dividends - The Primary Dividend Investing Hub",
+    "platform": "Reddit",
+    "category": "Dividend Growth",
+    "memberCount": "620,000+ members",
+    "description": "The world largest online dividend community focusing on Dividend Aristocrats, dividend growth investing (DGI), payout safety, and DRIP compounding.",
+    "joinUrl": "https://www.reddit.com/r/dividends/",
     "tags": [
-      "dividend-aristocrats",
-      "telegram",
-      "networking",
-      "verified"
+      "dividends",
+      "dividend-growth",
+      "passive-income",
+      "dgi"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-discord-2",
-    "title": "Compound Interest Global Discord Hub",
-    "platform": "Discord",
-    "category": "Compound Interest",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-2",
+    "id": "div-reddit-dividendinvesting",
+    "title": "r/dividendinvesting - Long-Term Income Portfolios",
+    "platform": "Reddit",
+    "category": "Dividend Strategy",
+    "memberCount": "95,000+ members",
+    "description": "Focused on long-term compound cashflow strategies, payout sustainability ratios, Dividend Kings, and building lifetime passive income snowballs.",
+    "joinUrl": "https://www.reddit.com/r/dividendinvesting/",
     "tags": [
+      "dividend-investing",
       "compound-interest",
-      "discord",
-      "networking",
-      "verified"
+      "dividend-kings",
+      "income"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-whatsapp-3",
-    "title": "Monthly Passive Cashflow Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/dividend-growth-&-passive-income-hub-whatsapp-3",
+    "id": "div-reddit-passiveincome",
+    "title": "r/passive_income - Cashflow Streams & Assets",
+    "platform": "Reddit",
+    "category": "Passive Income",
+    "memberCount": "510,000+ members",
+    "description": "Comprehensive community dedicated to generating automated, recurring income through high-yield securities, real estate, royalties, and investments.",
+    "joinUrl": "https://www.reddit.com/r/passive_income/",
     "tags": [
-      "monthly-passive-cashflow",
-      "whatsapp",
-      "networking",
-      "verified"
+      "passive-income",
+      "cashflow",
+      "automation",
+      "wealth"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-reddit-4",
-    "title": "Dividend Aristocrats Global Reddit Hub",
+    "id": "div-reddit-investing",
+    "title": "r/investing - Core Capital Compounding",
     "platform": "Reddit",
-    "category": "Dividend Aristocrats",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/dividend-growth-&-passive-income-hub-reddit-4",
+    "category": "General Investing",
+    "memberCount": "2,600,000+ members",
+    "description": "Reddit flagship market research community covering fundamental business valuation, balance sheet strength, dividend declarations, and macroeconomic trends.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
     "tags": [
-      "dividend-aristocrats",
-      "reddit",
-      "networking",
-      "verified"
+      "investing",
+      "fundamental-analysis",
+      "equities",
+      "markets"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-5",
-    "title": "Compound Interest Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Compound Interest",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-5",
-    "tags": [
-      "compound-interest",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-discord-6",
-    "title": "Monthly Passive Cashflow Global Discord Hub",
-    "platform": "Discord",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-6",
-    "tags": [
-      "monthly-passive-cashflow",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-whatsapp-7",
-    "title": "Dividend Aristocrats Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Dividend Aristocrats",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/dividend-growth-&-passive-income-hub-whatsapp-7",
-    "tags": [
-      "dividend-aristocrats",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-reddit-8",
-    "title": "Compound Interest Global Reddit Hub",
+    "id": "div-reddit-stocks",
+    "title": "r/stocks - Corporate Earnings & Dividend Hikes",
     "platform": "Reddit",
-    "category": "Compound Interest",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/dividend-growth-&-passive-income-hub-reddit-8",
+    "category": "Stock Market",
+    "memberCount": "7,100,000+ members",
+    "description": "Active discussions covering quarterly corporate reports, dividend increase announcements, ex-dividend dates, and individual stock valuations.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
     "tags": [
-      "compound-interest",
-      "reddit",
-      "networking",
-      "verified"
+      "stocks",
+      "earnings",
+      "stock-market",
+      "dividend-hikes"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-9",
-    "title": "Monthly Passive Cashflow Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-9",
-    "tags": [
-      "monthly-passive-cashflow",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-discord-10",
-    "title": "Dividend Aristocrats Global Discord Hub",
-    "platform": "Discord",
-    "category": "Dividend Aristocrats",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-10",
-    "tags": [
-      "dividend-aristocrats",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-whatsapp-11",
-    "title": "Compound Interest Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Compound Interest",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/dividend-growth-&-passive-income-hub-whatsapp-11",
-    "tags": [
-      "compound-interest",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-reddit-12",
-    "title": "Monthly Passive Cashflow Global Reddit Hub",
+    "id": "div-reddit-valueinvesting",
+    "title": "r/ValueInvesting - Margin of Safety & Cash Flow",
     "platform": "Reddit",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/dividend-growth-&-passive-income-hub-reddit-12",
+    "category": "Value Investing",
+    "memberCount": "280,000+ members",
+    "description": "Classic value investing rooted in Benjamin Graham and Warren Buffett principles, emphasizing free cash flow yields, economic moats, and dividend coverage.",
+    "joinUrl": "https://www.reddit.com/r/ValueInvesting/",
     "tags": [
-      "monthly-passive-cashflow",
-      "reddit",
-      "networking",
-      "verified"
+      "value-investing",
+      "buffett",
+      "margin-of-safety",
+      "free-cash-flow"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-13",
-    "title": "Dividend Aristocrats Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Dividend Aristocrats",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-13",
-    "tags": [
-      "dividend-aristocrats",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-discord-14",
-    "title": "Compound Interest Global Discord Hub",
-    "platform": "Discord",
-    "category": "Compound Interest",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-14",
-    "tags": [
-      "compound-interest",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-whatsapp-15",
-    "title": "Monthly Passive Cashflow Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/dividend-growth-&-passive-income-hub-whatsapp-15",
-    "tags": [
-      "monthly-passive-cashflow",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-reddit-16",
-    "title": "Dividend Aristocrats Global Reddit Hub",
+    "id": "div-reddit-incomeinvesting",
+    "title": "r/incomeinvesting - High-Yield Securities & Debt",
     "platform": "Reddit",
-    "category": "Dividend Aristocrats",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/dividend-growth-&-passive-income-hub-reddit-16",
+    "category": "High Yield Income",
+    "memberCount": "35,000+ members",
+    "description": "Discussions centered on high current yield through closed-end funds (CEFs), business development companies (BDCs), preferred stock, and bonds.",
+    "joinUrl": "https://www.reddit.com/r/incomeinvesting/",
     "tags": [
-      "dividend-aristocrats",
-      "reddit",
-      "networking",
-      "verified"
+      "income-investing",
+      "cef",
+      "bdc",
+      "high-yield"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-17",
-    "title": "Compound Interest Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Compound Interest",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-17",
-    "tags": [
-      "compound-interest",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-discord-18",
-    "title": "Monthly Passive Cashflow Global Discord Hub",
-    "platform": "Discord",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-18",
-    "tags": [
-      "monthly-passive-cashflow",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-whatsapp-19",
-    "title": "Dividend Aristocrats Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Dividend Aristocrats",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/dividend-growth-&-passive-income-hub-whatsapp-19",
-    "tags": [
-      "dividend-aristocrats",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-reddit-20",
-    "title": "Compound Interest Global Reddit Hub",
+    "id": "div-reddit-qyldgang",
+    "title": "r/qyldgang - Covered Call ETFs & Yield Maximization",
     "platform": "Reddit",
-    "category": "Compound Interest",
-    "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/dividend-growth-&-passive-income-hub-reddit-20",
+    "category": "Covered Call ETFs",
+    "memberCount": "30,000+ members",
+    "description": "Specialized forum analyzing option-income ETFs (QYLD, JEPI, JEPQ), monthly payout mechanics, NAV preservation, and synthetic dividend strategies.",
+    "joinUrl": "https://www.reddit.com/r/qyldgang/",
     "tags": [
-      "compound-interest",
-      "reddit",
-      "networking",
-      "verified"
+      "covered-calls",
+      "jepi",
+      "qyld",
+      "monthly-dividends"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-21",
-    "title": "Monthly Passive Cashflow Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-21",
-    "tags": [
-      "monthly-passive-cashflow",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-discord-22",
-    "title": "Dividend Aristocrats Global Discord Hub",
-    "platform": "Discord",
-    "category": "Dividend Aristocrats",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-22",
-    "tags": [
-      "dividend-aristocrats",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-whatsapp-23",
-    "title": "Compound Interest Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Compound Interest",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/dividend-growth-&-passive-income-hub-whatsapp-23",
-    "tags": [
-      "compound-interest",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-reddit-24",
-    "title": "Monthly Passive Cashflow Global Reddit Hub",
+    "id": "div-reddit-canadianinvestor",
+    "title": "r/CanadianInvestor - TSX Dividend Aristocrats",
     "platform": "Reddit",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/dividend-growth-&-passive-income-hub-reddit-24",
+    "category": "Canadian Dividends",
+    "memberCount": "220,000+ members",
+    "description": "High-quality forum discussing Canadian dividend powerhouses, Big 5 Canadian banks, telecommunications, energy infrastructure, and eligible dividend tax credits.",
+    "joinUrl": "https://www.reddit.com/r/CanadianInvestor/",
     "tags": [
-      "monthly-passive-cashflow",
-      "reddit",
-      "networking",
-      "verified"
+      "canadian-investor",
+      "tsx",
+      "canadian-banks",
+      "dividend-tax-credit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-25",
-    "title": "Dividend Aristocrats Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Dividend Aristocrats",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-25",
-    "tags": [
-      "dividend-aristocrats",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-discord-26",
-    "title": "Compound Interest Global Discord Hub",
-    "platform": "Discord",
-    "category": "Compound Interest",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-26",
-    "tags": [
-      "compound-interest",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-whatsapp-27",
-    "title": "Monthly Passive Cashflow Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/dividend-growth-&-passive-income-hub-whatsapp-27",
-    "tags": [
-      "monthly-passive-cashflow",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "dividend-growth-&-passive-income-hub-reddit-28",
-    "title": "Dividend Aristocrats Global Reddit Hub",
+    "id": "div-reddit-ukinvesting",
+    "title": "r/ukinvesting - FTSE High-Yield Stocks & Trusts",
     "platform": "Reddit",
-    "category": "Dividend Aristocrats",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on dividend aristocrats discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/dividend-growth-&-passive-income-hub-reddit-28",
+    "category": "UK Dividend Equities",
+    "memberCount": "110,000+ members",
+    "description": "UK equity discussions analyzing FTSE 100 dividend yields, British investment trusts with multi-decade dividend growth records, and tax-sheltered ISAs.",
+    "joinUrl": "https://www.reddit.com/r/ukinvesting/",
     "tags": [
-      "dividend-aristocrats",
-      "reddit",
-      "networking",
-      "verified"
+      "uk-investing",
+      "ftse100",
+      "investment-trusts",
+      "dividend-yield"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-telegram-29",
-    "title": "Compound Interest Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Compound Interest",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on compound interest discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/dividend-growth-&-passive-income-hub-telegram-29",
+    "id": "div-reddit-securityanalysis",
+    "title": "r/SecurityAnalysis - Institutional Equity Research",
+    "platform": "Reddit",
+    "category": "Fundamental Analysis",
+    "memberCount": "140,000+ members",
+    "description": "Advanced discussions on corporate balance sheets, cash flow statement durability, debt maturities, and assessing long-term dividend safety.",
+    "joinUrl": "https://www.reddit.com/r/SecurityAnalysis/",
     "tags": [
-      "compound-interest",
-      "telegram",
-      "networking",
-      "verified"
+      "security-analysis",
+      "equity-research",
+      "financial-statements",
+      "solvency"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "dividend-growth-&-passive-income-hub-discord-30",
-    "title": "Monthly Passive Cashflow Global Discord Hub",
+    "id": "div-reddit-reits",
+    "title": "r/reits - Real Estate Investment Trusts & Payouts",
+    "platform": "Reddit",
+    "category": "Real Estate Trusts",
+    "memberCount": "25,000+ members",
+    "description": "Focused on public REITs across industrial warehouses, healthcare facilities, self-storage, and retail plazas distributing mandatory 90% taxable income.",
+    "joinUrl": "https://www.reddit.com/r/reits/",
+    "tags": [
+      "reits",
+      "real-estate",
+      "monthly-income",
+      "commercial-property"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-bogleheads",
+    "title": "r/Bogleheads - Total Return & Dividend Reinvestment",
+    "platform": "Reddit",
+    "category": "Total Return & DRIP",
+    "memberCount": "510,000+ members",
+    "description": "Low-cost index fund investing emphasizing automatic dividend reinvestment (DRIP), low turnover, broad market diversification, and tax efficiency.",
+    "joinUrl": "https://www.reddit.com/r/Bogleheads/",
+    "tags": [
+      "bogleheads",
+      "drip",
+      "total-return",
+      "passive-indexing"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-financialindependence",
+    "title": "r/financialindependence - Living Off Cashflow",
+    "platform": "Reddit",
+    "category": "Living Off Cashflow",
+    "memberCount": "2,100,000+ members",
+    "description": "Exploring yield shields, safe withdrawal strategies, and funding early retirement through cashflow distributions without depleting principal.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "financial-independence",
+      "fire",
+      "cashflow-retirement",
+      "yield-shield"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-etfs",
+    "title": "r/ETFs - Dividend Growth ETFs (SCHD, VIG, DGRO)",
+    "platform": "Reddit",
+    "category": "Dividend ETFs",
+    "memberCount": "290,000+ members",
+    "description": "Comparative research and portfolio allocation analysis of leading dividend growth ETFs, expense ratios, sector weightings, and dividend CAGR.",
+    "joinUrl": "https://www.reddit.com/r/ETFs/",
+    "tags": [
+      "dividend-etfs",
+      "schd",
+      "vig",
+      "dgro"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-stockmarket",
+    "title": "r/StockMarket - Market Trends & Dividend Schedules",
+    "platform": "Reddit",
+    "category": "Market Insights",
+    "memberCount": "3,400,000+ members",
+    "description": "Broad equity forum tracking market sentiment, Federal Reserve interest rate policy, corporate earnings seasons, and dividend payment dates.",
+    "joinUrl": "https://www.reddit.com/r/StockMarket/",
+    "tags": [
+      "stock-market",
+      "macro-trends",
+      "interest-rates",
+      "dividend-calendar"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-smallstreetbets",
+    "title": "r/smallstreetbets - Grassroots Wealth Accumulation",
+    "platform": "Reddit",
+    "category": "Retail Portfolios",
+    "memberCount": "340,000+ members",
+    "description": "Practical, welcoming environment for retail investors initiating their dividend snowball journey with small, consistent dollar-cost averaging.",
+    "joinUrl": "https://www.reddit.com/r/smallstreetbets/",
+    "tags": [
+      "retail-investing",
+      "dollar-cost-averaging",
+      "small-portfolios",
+      "wealth-accumulation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-personalfinance",
+    "title": "r/personalfinance - Investment Surplus Optimization",
+    "platform": "Reddit",
+    "category": "Capital Allocation",
+    "memberCount": "18,500,000+ members",
+    "description": "Master personal finance principles that maximize monthly discretionary savings, channeling surplus cashflow into high-yield dividend assets.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "tags": [
+      "personal-finance",
+      "budgeting",
+      "surplus-capital",
+      "investing-basics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-frugal",
+    "title": "r/Frugal - Slashing Expenses to Fund Portfolios",
+    "platform": "Reddit",
+    "category": "Cost Optimization",
+    "memberCount": "3,200,000+ members",
+    "description": "Practical frugal living techniques to slash overhead, allowing investors to allocate larger portions of their income into dividend-producing securities.",
+    "joinUrl": "https://www.reddit.com/r/Frugal/",
+    "tags": [
+      "frugal",
+      "savings-rate",
+      "cost-cutting",
+      "portfolio-funding"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-reddit-options",
+    "title": "r/options - Option Strategies & Covered Call Yield",
+    "platform": "Reddit",
+    "category": "Options & Covered Calls",
+    "memberCount": "1,200,000+ members",
+    "description": "Educational forum for executing covered call writing, cash-secured puts, and option overlays to harvest supplementary cashflow from equity holdings.",
+    "joinUrl": "https://www.reddit.com/r/options/",
+    "tags": [
+      "options",
+      "covered-calls",
+      "income-generation",
+      "cash-secured-puts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-discord-dividends",
+    "title": "Dividends Official Discord Server",
     "platform": "Discord",
-    "category": "Monthly Passive Cashflow",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on monthly passive cashflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/dividend-growth-&-passive-income-hub-discord-30",
+    "category": "Dividend Investing",
+    "memberCount": "22,000+ members",
+    "description": "The premier real-time Discord community for dividend tracking spreadsheets, ex-dividend announcements, portfolio roast channels, and DRIP discussions.",
+    "joinUrl": "https://discord.gg/dividends",
     "tags": [
-      "monthly-passive-cashflow",
       "discord",
-      "networking",
-      "verified"
+      "dividends",
+      "drip",
+      "portfolio-reviews"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-discord-investing",
+    "title": "The Investing Discord Server",
+    "platform": "Discord",
+    "category": "General Investing",
+    "memberCount": "85,000+ members",
+    "description": "Active Discord community featuring dedicated channels for dividend aristocrats, corporate earnings announcements, and macroeconomic debate.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "discord",
+      "investing",
+      "markets",
+      "macro-analysis"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-discord-stocks",
+    "title": "Stock Market Central Discord",
+    "platform": "Discord",
+    "category": "Stock Market",
+    "memberCount": "48,000+ members",
+    "description": "Real-time chatroom discussing daily stock movements, earnings calls, quarterly dividend payouts, and long-term equity holding strategies.",
+    "joinUrl": "https://discord.gg/stocks",
+    "tags": [
+      "discord",
+      "stocks",
+      "earnings-season",
+      "equity-trading"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-discord-valueinvesting",
+    "title": "Value Investors Guild Discord",
+    "platform": "Discord",
+    "category": "Value Investing",
+    "memberCount": "18,000+ members",
+    "description": "Focused on fundamental balance sheet analysis, discounted cash flow calculations, wide moat identification, and sustainable dividend yields.",
+    "joinUrl": "https://discord.gg/valueinvesting",
+    "tags": [
+      "discord",
+      "value-investing",
+      "dcf-models",
+      "economic-moats"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-discord-passiveincome",
+    "title": "Passive Income HQ Discord",
+    "platform": "Discord",
+    "category": "Passive Income",
+    "memberCount": "22,000+ members",
+    "description": "Dedicated server exploring multi-stream passive income generation, real estate yields, covered call ETFs, and hands-off dividend snowballs.",
+    "joinUrl": "https://discord.gg/passiveincome",
+    "tags": [
+      "discord",
+      "passive-income",
+      "cashflow",
+      "wealth-generation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-discord-finance",
+    "title": "Global Finance & Capital Discord",
+    "platform": "Discord",
+    "category": "Financial Freedom",
+    "memberCount": "35,000+ members",
+    "description": "Interactive discussions on compounding math, tax minimization on dividend payouts, brokerage selection, and retirement income planning.",
+    "joinUrl": "https://discord.gg/finance",
+    "tags": [
+      "discord",
+      "finance",
+      "tax-planning",
+      "compounding-interest"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-telegram-dividendinvestors",
+    "title": "Dividend Investors Official Telegram",
+    "platform": "Telegram",
+    "category": "Dividend Investing",
+    "memberCount": "28,000+ members",
+    "description": "Instant mobile updates on upcoming ex-dividend dates, dividend declaration hikes, payout ratios, and high-yield stock analysis.",
+    "joinUrl": "https://t.me/dividendinvestors",
+    "tags": [
+      "telegram",
+      "dividend-investors",
+      "ex-dividend",
+      "payout-alerts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-telegram-valueinvesting",
+    "title": "Value Investing Global Telegram",
+    "platform": "Telegram",
+    "category": "Value Investing",
+    "memberCount": "21,000+ members",
+    "description": "Curated write-ups on undervalued dividend-paying companies, margin of safety evaluations, balance sheet reviews, and annual reports.",
+    "joinUrl": "https://t.me/valueinvesting",
+    "tags": [
+      "telegram",
+      "value-investing",
+      "undervalued-stocks",
+      "balance-sheet"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-telegram-passiveincome",
+    "title": "Passive Income Ideas & Stream Telegram",
+    "platform": "Telegram",
+    "category": "Passive Cashflow",
+    "memberCount": "31,000+ members",
+    "description": "Daily notifications highlighting hands-off cashflow opportunities, monthly dividend asset breakdowns, and automated portfolio compounders.",
+    "joinUrl": "https://t.me/passiveincome",
+    "tags": [
+      "telegram",
+      "passive-income",
+      "monthly-dividends",
+      "cashflow-stream"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "div-telegram-financialindependence",
+    "title": "Financial Independence & Cashflow Channel",
+    "platform": "Telegram",
+    "category": "Cashflow Living",
+    "memberCount": "19,000+ members",
+    "description": "Case studies and daily insights on reaching full financial independence funded exclusively by compounding passive dividend payouts.",
+    "joinUrl": "https://t.me/financialindependence",
+    "tags": [
+      "telegram",
+      "financial-independence",
+      "dividend-fire",
+      "early-retirement"
     ],
     "verified": true,
     "featured": false
