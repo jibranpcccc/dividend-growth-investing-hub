@@ -28,4 +28,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://dividend-growth-investing-hub.netlify.app/sitemap.xml
+Sitemap: https://jibranpcccc.github.io/dividend-growth-investing-hub/sitemap.xml
