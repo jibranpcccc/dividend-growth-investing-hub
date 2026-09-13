@@ -1,5 +1,24 @@
 [
   {
+    "id": "dividend-growth-investing-hub-reddit-20260913-1",
+    "title": "r/wallstreetbets Alpha & Options",
+    "platform": "Reddit",
+    "category": "Trading",
+    "memberCount": "16,500,000+ members",
+    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "tags": [
+      "wsb",
+      "trading",
+      "options",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "div-reddit-dividends",
     "title": "r/dividends - The Primary Dividend Investing Hub",
     "platform": "Reddit",
@@ -14,7 +33,8 @@
       "dgi"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-dividendinvesting",
@@ -31,7 +51,8 @@
       "income"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-passiveincome",
@@ -48,7 +69,8 @@
       "wealth"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-investing",
@@ -65,7 +87,8 @@
       "markets"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-stocks",
@@ -82,7 +105,8 @@
       "dividend-hikes"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-valueinvesting",
@@ -99,7 +123,8 @@
       "free-cash-flow"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-incomeinvesting",
@@ -116,7 +141,8 @@
       "high-yield"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-qyldgang",
@@ -133,7 +159,8 @@
       "monthly-dividends"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-canadianinvestor",
@@ -150,7 +177,8 @@
       "dividend-tax-credit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-ukinvesting",
@@ -167,7 +195,8 @@
       "dividend-yield"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-securityanalysis",
@@ -184,7 +213,8 @@
       "solvency"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-reits",
@@ -201,7 +231,8 @@
       "commercial-property"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-bogleheads",
@@ -218,7 +249,8 @@
       "passive-indexing"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-financialindependence",
@@ -235,7 +267,8 @@
       "yield-shield"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-etfs",
@@ -252,7 +285,8 @@
       "dgro"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-stockmarket",
@@ -269,7 +303,8 @@
       "dividend-calendar"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-smallstreetbets",
@@ -286,7 +321,8 @@
       "wealth-accumulation"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-personalfinance",
@@ -303,7 +339,8 @@
       "investing-basics"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-frugal",
@@ -320,7 +357,8 @@
       "portfolio-funding"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-reddit-options",
@@ -337,7 +375,8 @@
       "cash-secured-puts"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-discord-dividends",
@@ -354,7 +393,8 @@
       "portfolio-reviews"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-discord-investing",
@@ -371,7 +411,8 @@
       "macro-analysis"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-discord-stocks",
@@ -388,7 +429,8 @@
       "equity-trading"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-discord-valueinvesting",
@@ -405,7 +447,8 @@
       "economic-moats"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-discord-passiveincome",
@@ -422,7 +465,8 @@
       "wealth-generation"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-discord-finance",
@@ -439,7 +483,8 @@
       "compounding-interest"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-telegram-dividendinvestors",
@@ -456,7 +501,8 @@
       "payout-alerts"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-telegram-valueinvesting",
@@ -473,7 +519,8 @@
       "balance-sheet"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-telegram-passiveincome",
@@ -490,7 +537,8 @@
       "cashflow-stream"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "div-telegram-financialindependence",
@@ -507,6 +555,7 @@
       "early-retirement"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
