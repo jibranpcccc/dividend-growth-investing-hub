@@ -1,17 +1,17 @@
 [
   {
-    "id": "dividend-growth-investing-hub-forum-20260915-1",
-    "title": "BiggerPockets Real Estate Forum",
-    "platform": "Forum",
-    "category": "Real Estate",
-    "memberCount": "2,000,000+ members",
-    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
-    "joinUrl": "https://www.biggerpockets.com/forums",
+    "id": "dividend-growth-investing-hub-reddit-20260915-1",
+    "title": "r/dividends Long-Term Compounding",
+    "platform": "Reddit",
+    "category": "Dividend Growth",
+    "memberCount": "620,000+ members",
+    "description": "Dividend growth investing, Dividend Aristocrats analysis, yield on cost, SCHD vs VOO distributions, and DRIP snowball strategies.",
+    "joinUrl": "https://www.reddit.com/r/dividends/",
     "tags": [
-      "biggerpockets",
-      "real-estate",
-      "forum",
-      "wholesaling"
+      "dividends",
+      "investing",
+      "passive-income",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
@@ -93,24 +93,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "div-reddit-dividends",
-    "title": "r/dividends - The Primary Dividend Investing Hub",
-    "platform": "Reddit",
-    "category": "Dividend Growth",
-    "memberCount": "620,000+ members",
-    "description": "The world largest online dividend community focusing on Dividend Aristocrats, dividend growth investing (DGI), payout safety, and DRIP compounding.",
-    "joinUrl": "https://www.reddit.com/r/dividends/",
-    "tags": [
-      "dividends",
-      "dividend-growth",
-      "passive-income",
-      "dgi"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "div-reddit-dividendinvesting",
