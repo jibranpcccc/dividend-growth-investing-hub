@@ -1,5 +1,24 @@
 [
   {
+    "id": "div-reddit-valueinvesting",
+    "title": "r/ValueInvesting - Margin of Safety & Cash Flow",
+    "platform": "Reddit",
+    "category": "Value Investing",
+    "memberCount": "280,000+ members",
+    "description": "Classic value investing rooted in Benjamin Graham and Warren Buffett principles, emphasizing free cash flow yields, economic moats, and dividend coverage.",
+    "joinUrl": "https://www.reddit.com/r/ValueInvesting/",
+    "tags": [
+      "value-investing",
+      "buffett",
+      "margin-of-safety",
+      "free-cash-flow"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "div-reddit-stocks",
     "title": "r/stocks - Corporate Earnings & Dividend Hikes",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -1100,24 +1119,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "div-reddit-valueinvesting",
-    "title": "r/ValueInvesting - Margin of Safety & Cash Flow",
-    "platform": "Reddit",
-    "category": "Value Investing",
-    "memberCount": "280,000+ members",
-    "description": "Classic value investing rooted in Benjamin Graham and Warren Buffett principles, emphasizing free cash flow yields, economic moats, and dividend coverage.",
-    "joinUrl": "https://www.reddit.com/r/ValueInvesting/",
-    "tags": [
-      "value-investing",
-      "buffett",
-      "margin-of-safety",
-      "free-cash-flow"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "div-reddit-incomeinvesting",
