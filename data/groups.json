@@ -1,5 +1,24 @@
 [
   {
+    "id": "div-reddit-incomeinvesting",
+    "title": "r/incomeinvesting - High-Yield Securities & Debt",
+    "platform": "Reddit",
+    "category": "High Yield Income",
+    "memberCount": "35,000+ members",
+    "description": "Discussions centered on high current yield through closed-end funds (CEFs), business development companies (BDCs), preferred stock, and bonds.",
+    "joinUrl": "https://www.reddit.com/r/incomeinvesting/",
+    "tags": [
+      "income-investing",
+      "cef",
+      "bdc",
+      "high-yield"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "div-reddit-valueinvesting",
     "title": "r/ValueInvesting - Margin of Safety & Cash Flow",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -1119,24 +1138,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "div-reddit-incomeinvesting",
-    "title": "r/incomeinvesting - High-Yield Securities & Debt",
-    "platform": "Reddit",
-    "category": "High Yield Income",
-    "memberCount": "35,000+ members",
-    "description": "Discussions centered on high current yield through closed-end funds (CEFs), business development companies (BDCs), preferred stock, and bonds.",
-    "joinUrl": "https://www.reddit.com/r/incomeinvesting/",
-    "tags": [
-      "income-investing",
-      "cef",
-      "bdc",
-      "high-yield"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "div-reddit-qyldgang",
